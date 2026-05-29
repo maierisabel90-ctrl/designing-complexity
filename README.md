@@ -2,6 +2,20 @@
 
 Senior Product Designer | Product Discovery • Research & Experimentation • AI-Assisted Experiences • Complex Systems
 
+What I Do
+
+I solve ambiguous customer and business problems by combining systems thinking, service design, product strategy, and behavioral analysis.
+
+My work focuses on:
+
+- Discovering root causes behind customer friction
+- Connecting behavioral signals into actionable insights
+- Designing trustworthy end-to-end experiences
+- Aligning stakeholders around high-impact opportunities
+- Translating strategy into implementation-ready solutions
+
+Recent work includes redesigning customer support journeys, improving escalation experiences, reducing service fragmentation, and developing reusable frameworks for AI-assisted decision-making.
+
 ## Design philosophy
 
 Great products emerge when customer needs, business goals, and technical realities are aligned around a shared outcome.
