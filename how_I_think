@@ -1,1 +1,415 @@
+# How I Think
+
+Most portfolios explain what was designed.
+
+This document explains how I approach problems.
+
+Over time, I have found that my most valuable contribution is rarely a specific deliverable. It is the ability to identify the right problem, connect seemingly unrelated signals, and create clarity in situations where the path forward is uncertain.
+
+My work sits at the intersection of product design, service design, systems thinking, experience strategy, and increasingly AI-assisted decision-making.
+
+---
+
+# 1. I Start With Symptoms, Not Solutions
+
+Most complex problems do not arrive with a clearly defined root cause.
+
+They arrive as symptoms.
+
+Examples include:
+
+* Customer frustration
+* Low engagement
+* Abandonment
+* Escalation spikes
+* Duplicate requests
+* Poor conversion
+* Operational inefficiencies
+
+Rather than immediately designing solutions, I focus on understanding what those symptoms might be telling us.
+
+At this stage, signals are observations.
+
+They are not conclusions.
+
+---
+
+# 2. I Connect Weak Signals
+
+Many organizations analyze problems in isolation.
+
+Teams investigate individual metrics, touchpoints, customer complaints, or operational issues.
+
+I look for patterns across the entire system.
+
+Questions I often ask:
+
+* What signals appear unrelated but occur at similar moments?
+* What customer behaviors cluster around the same journey stage?
+* What happens before and after friction occurs?
+* Are multiple teams describing different versions of the same problem?
+
+This approach often reveals systemic issues that remain invisible when viewed through a single lens.
+
+---
+
+# 3. I Use a Multi-Dimensional Systems Lens
+
+Over time, I found that many complex problems could not be understood through a single hierarchy, journey, process, or organizational view.
+
+As a result, I gradually developed a personal analytical framework rooted in the Abstraction Ladder and expanded it into a multi-dimensional model for exploring systems, behaviors, and decision-making.
+
+While the framework continues to evolve, it currently operates across three interconnected dimensions.
+
+---
+
+## Dimension 1 — Levels of Abstraction (Y-Axis)
+
+The first dimension is inspired by the Abstraction Ladder.
+
+Problems can be viewed at multiple levels simultaneously, ranging from highly concrete observations to broad strategic intent.
+
+Examples include:
+
+* Individual interactions
+* Features and capabilities
+* Journeys and workflows
+* Services and operating models
+* Organizational objectives
+* Strategic outcomes
+
+One of the most common sources of confusion in organizations is that stakeholders are often discussing the same issue from different abstraction levels without realizing it.
+
+A customer may describe a broken interaction.
+
+An engineer may discuss implementation constraints.
+
+A product manager may discuss roadmap priorities.
+
+A leader may discuss business outcomes.
+
+All may be describing the same problem from different layers of abstraction.
+
+---
+
+## Dimension 2 — System Polarities and Dynamics (X-Axis)
+
+The second dimension focuses on competing forces that exist within every system.
+
+Rather than viewing problems as static, I evaluate the tensions that continuously shape behavior.
+
+Examples include:
+
+* Efficiency ↔ Experience
+* Automation ↔ Human Control
+* Standardization ↔ Flexibility
+* Simplicity ↔ Completeness
+* Speed ↔ Confidence
+* Local Optimization ↔ System Optimization
+
+Many organizational challenges emerge not because one side is correct, but because both sides are necessary.
+
+The objective becomes understanding how those forces interact rather than choosing a single winner.
+
+---
+
+## Dimension 3 — Contextual Dimensions Within Each Layer (Z-Axis)
+
+The third dimension explores the factors that influence behavior within a given abstraction level.
+
+Depending on the problem space, these dimensions may include:
+
+* Customer behavior
+* User psychology
+* Trust
+* Communication
+* Operations
+* Governance
+* Technology
+* Economics
+* Risk
+* Incentives
+* Organizational structures
+
+This allows analysis to move beyond linear cause-and-effect thinking and toward a richer understanding of system behavior.
+
+---
+
+## Why This Matters
+
+Many problems initially appear simple when viewed from a single perspective.
+
+However, as additional abstraction levels, competing dynamics, and contextual dimensions are introduced, underlying patterns often become visible.
+
+This approach has repeatedly helped me:
+
+* Connect seemingly unrelated signals
+* Identify hidden root causes
+* Resolve stakeholder misalignment
+* Understand system behavior
+* Reframe complex problems
+* Design interventions with broader impact
+
+While I rarely apply the framework explicitly in workshops or stakeholder discussions, it strongly influences how I structure analysis, interpret signals, and navigate ambiguity.
+
+---
+
+# 4. I Build Competing Hypotheses
+
+One of the biggest risks in problem-solving is falling in love with the first explanation.
+
+When investigating a problem, I deliberately explore multiple possible causes.
+
+Instead of asking:
+
+> What is causing this?
+
+I ask:
+
+> What are all the reasonable explanations for this?
+
+Examples:
+
+* Is this a usability issue?
+* Is this a trust issue?
+* Is this an operational issue?
+* Is this an expectation problem?
+* Is this a communication problem?
+* Is this a lifecycle problem?
+
+The objective is not to be right immediately.
+
+The objective is to avoid being wrong too early.
+
+---
+
+# 5. I Reframe Problems
+
+The most valuable discoveries often emerge when a problem is viewed from a different perspective.
+
+Examples:
+
+Instead of:
+
+> Customers are abandoning the journey.
+
+Ask:
+
+> What made customers stop believing the journey would help them?
+
+Instead of:
+
+> Escalation takes too long.
+
+Ask:
+
+> What makes customers uncertain during escalation?
+
+Instead of:
+
+> Notifications are ineffective.
+
+Ask:
+
+> Which customer decisions are these notifications helping people make?
+
+A small change in framing can dramatically change the quality of the solution.
+
+---
+
+# 6. I Focus on Trust
+
+Across many projects, I have found that trust is often the hidden variable behind customer behavior.
+
+Customers may struggle because they do not understand:
+
+* What is happening
+* Why it is happening
+* What happens next
+* Whether progress is being made
+* Whether their issue has been resolved
+
+When trust breaks down, customers often respond through behaviors such as:
+
+* Repeated actions
+* Duplicate requests
+* Escalations
+* Abandonment
+* Inactivity
+* Support contacts
+
+Because of this, I frequently evaluate experiences through the lens of confidence and predictability rather than functionality alone.
+
+---
+
+# 7. I Design for Journeys, Not Transactions
+
+Organizations often structure experiences around individual requests.
+
+Customers rarely think that way.
+
+Customers think in goals.
+
+A request is simply one step toward an outcome.
+
+Instead of optimizing for task completion, I optimize for progression.
+
+Questions I ask:
+
+* What is the customer ultimately trying to achieve?
+* What related needs might follow?
+* Where will friction occur next?
+* How can effort be reduced across the journey?
+
+This often reveals opportunities that would otherwise be missed.
+
+---
+
+# 8. I Pay Special Attention to Transitions
+
+Many experience failures occur between stages rather than within them.
+
+Examples include:
+
+* Self-service → Human support
+* Waiting → Response
+* Active → Closed
+* One task → Next task
+
+These moments are where ownership, expectations, and confidence frequently change.
+
+Whenever I map a journey, I pay particular attention to transitions because they often contain the highest concentration of customer uncertainty.
+
+---
+
+# 9. I Balance Qualitative and Quantitative Evidence
+
+I do not believe decisions should be driven exclusively by metrics or exclusively by anecdotes.
+
+Both are incomplete on their own.
+
+I use qualitative and quantitative evidence together to create a more complete understanding of the problem.
+
+### Qualitative Signals
+
+* Customer feedback
+* Support conversations
+* Journey observations
+* Stakeholder insights
+
+### Quantitative Signals
+
+* Behavioral patterns
+* Funnel performance
+* Abandonment
+* Inactivity
+* Escalation behavior
+* Conversion metrics
+
+The objective is not to prove a hypothesis.
+
+The objective is to understand reality as accurately as possible.
+
+---
+
+# 10. I Design for Implementation
+
+A good idea creates little value if it cannot be implemented.
+
+As a result, I frequently think beyond the experience itself.
+
+Questions I consider:
+
+* Who owns this?
+* How will it be governed?
+* What dependencies exist?
+* What operational impact does it create?
+* How will success be measured?
+
+The goal is to create solutions that can realistically move from concept to execution.
+
+---
+
+# 11. I Use AI to Improve Decision Quality
+
+I view AI as a thinking partner rather than a content-generation tool.
+
+I use AI to:
+
+* Explore hypotheses
+* Stress-test assumptions
+* Synthesize information
+* Identify patterns
+* Generate alternative perspectives
+* Accelerate analysis
+
+The objective is not faster outputs.
+
+The objective is better decisions.
+
+---
+
+# 12. Building the Harness
+
+Alongside my professional work, I am currently developing a personal project called the Harness.
+
+The Harness originated from a recurring observation:
+
+Organizations often possess expertise, but struggle to scale it.
+
+Knowledge exists in documents.
+
+Experience exists in people.
+
+Judgement exists in practice.
+
+Yet much of this expertise remains difficult to transfer, reuse, or operationalize.
+
+The Harness explores how reasoning frameworks, decision models, principles, and professional judgement can be transformed into reusable capabilities.
+
+Rather than focusing on task automation, the goal is to improve decision quality.
+
+The core question behind the project is:
+
+> How can expertise become reusable?
+
+Current areas of exploration include:
+
+* Structured reasoning frameworks
+* Expertise modeling
+* Skill-based AI systems
+* Evaluation mechanisms
+* Human-AI collaboration
+* Reusable decision support systems
+
+The objective is not to replace expertise.
+
+The objective is to make expertise more accessible, scalable, and consistent.
+
+---
+
+# What I Optimize For
+
+Across projects, I consistently optimize for:
+
+* Reduced customer effort
+* Increased confidence
+* Better decision-making
+* Improved continuity
+* Reduced ambiguity
+* Stronger trust
+* Sustainable operational models
+* Measurable business outcomes
+
+---
+
+# Closing Thought
+
+The most valuable opportunities rarely exist within individual screens or isolated interactions.
+
+They often exist within the relationships between systems, teams, expectations, and customer behaviors.
+
+My role is to identify those relationships, uncover the underlying problem, and create experiences that are understandable, trustworthy, and effective.
+
+> It is an experience system.
 
